@@ -1,66 +1,153 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on House</title>
-        <link>https://lucas-wang-1.github.io/tags/</link>
-        <description>Recent content in Tags on House</description>
+        <title>Tags on Lucas Wang</title>
+        <link>https://lucaswang.cloud/tags/</link>
+        <description>Recent content in Tags on Lucas Wang</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
-        <copyright>Lucas Person</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://lucas-wang-1.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Css</title>
-        <link>https://lucas-wang-1.github.io/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 06 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lucaswang.cloud/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>家庭教育</title>
+        <link>https://lucaswang.cloud/tags/%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2/</link>
+        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://lucas-wang-1.github.io/tags/css/</guid>
+        <guid>https://lucaswang.cloud/tags/%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2/</guid>
         <description></description>
         </item>
         <item>
-        <title>Html</title>
-        <link>https://lucas-wang-1.github.io/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>教育</title>
+        <link>https://lucaswang.cloud/tags/%E6%95%99%E8%82%B2/</link>
+        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://lucas-wang-1.github.io/tags/html/</guid>
+        <guid>https://lucaswang.cloud/tags/%E6%95%99%E8%82%B2/</guid>
         <description></description>
         </item>
         <item>
-        <title>Markdown</title>
-        <link>https://lucas-wang-1.github.io/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>社会观察</title>
+        <link>https://lucaswang.cloud/tags/%E7%A4%BE%E4%BC%9A%E8%A7%82%E5%AF%9F/</link>
+        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://lucas-wang-1.github.io/tags/markdown/</guid>
+        <guid>https://lucaswang.cloud/tags/%E7%A4%BE%E4%BC%9A%E8%A7%82%E5%AF%9F/</guid>
         <description></description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>https://lucas-wang-1.github.io/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>游戏</title>
+        <link>https://lucaswang.cloud/tags/%E6%B8%B8%E6%88%8F/</link>
+        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://lucas-wang-1.github.io/tags/themes/</guid>
+        <guid>https://lucaswang.cloud/tags/%E6%B8%B8%E6%88%8F/</guid>
         <description></description>
         </item>
         <item>
-        <title>Tag With Whitespaces</title>
-        <link>https://lucas-wang-1.github.io/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <title>API</title>
+        <link>https://lucaswang.cloud/tags/api/</link>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://lucas-wang-1.github.io/tags/tag-with-whitespaces/</guid>
+        <guid>https://lucaswang.cloud/tags/api/</guid>
         <description></description>
         </item>
         <item>
-        <title>Text</title>
-        <link>https://lucas-wang-1.github.io/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <title>NVIDIA</title>
+        <link>https://lucaswang.cloud/tags/nvidia/</link>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://lucas-wang-1.github.io/tags/text/</guid>
+        <guid>https://lucaswang.cloud/tags/nvidia/</guid>
         <description></description>
         </item>
         <item>
-        <title>Emoji</title>
-        <link>https://lucas-wang-1.github.io/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        <title>大模型</title>
+        <link>https://lucaswang.cloud/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</link>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
         
-        <guid>https://lucas-wang-1.github.io/tags/emoji/</guid>
+        <guid>https://lucaswang.cloud/tags/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>教程</title>
+        <link>https://lucaswang.cloud/tags/%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E6%95%99%E7%A8%8B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>免费</title>
+        <link>https://lucaswang.cloud/tags/%E5%85%8D%E8%B4%B9/</link>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E5%85%8D%E8%B4%B9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>亲子</title>
+        <link>https://lucaswang.cloud/tags/%E4%BA%B2%E5%AD%90/</link>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E4%BA%B2%E5%AD%90/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>深度学习</title>
+        <link>https://lucaswang.cloud/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>研学活动</title>
+        <link>https://lucaswang.cloud/tags/%E7%A0%94%E5%AD%A6%E6%B4%BB%E5%8A%A8/</link>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E7%A0%94%E5%AD%A6%E6%B4%BB%E5%8A%A8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>自然教育</title>
+        <link>https://lucaswang.cloud/tags/%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2/</link>
+        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>父母健康</title>
+        <link>https://lucaswang.cloud/tags/%E7%88%B6%E6%AF%8D%E5%81%A5%E5%BA%B7/</link>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E7%88%B6%E6%AF%8D%E5%81%A5%E5%BA%B7/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>亲子关系</title>
+        <link>https://lucaswang.cloud/tags/%E4%BA%B2%E5%AD%90%E5%85%B3%E7%B3%BB/</link>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E4%BA%B2%E5%AD%90%E5%85%B3%E7%B3%BB/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>生活感悟</title>
+        <link>https://lucaswang.cloud/tags/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/</link>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E7%94%9F%E6%B4%BB%E6%84%9F%E6%82%9F/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>清明节</title>
+        <link>https://lucaswang.cloud/tags/%E6%B8%85%E6%98%8E%E8%8A%82/</link>
+        <pubDate>Mon, 06 Apr 2026 23:50:00 +0800</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E6%B8%85%E6%98%8E%E8%8A%82/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>踏青</title>
+        <link>https://lucaswang.cloud/tags/%E8%B8%8F%E9%9D%92/</link>
+        <pubDate>Mon, 06 Apr 2026 23:50:00 +0800</pubDate>
+        
+        <guid>https://lucaswang.cloud/tags/%E8%B8%8F%E9%9D%92/</guid>
         <description></description>
         </item>
         
