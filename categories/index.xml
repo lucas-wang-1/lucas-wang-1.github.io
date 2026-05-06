@@ -1,58 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Lucas Wang</title>
-        <link>https://lucaswang.cloud/categories/</link>
-        <description>Recent content in Categories on Lucas Wang</description>
+        <title>Categories on House</title>
+        <link>https://lucas-wang-1.github.io/categories/</link>
+        <description>Recent content in Categories on House</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 06 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lucaswang.cloud/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>教育观察</title>
-        <link>https://lucaswang.cloud/categories/%E6%95%99%E8%82%B2%E8%A7%82%E5%AF%9F/</link>
-        <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+        <copyright>Lucas Person</copyright>
+        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://lucas-wang-1.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test</title>
+        <link>https://lucas-wang-1.github.io/categories/test/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://lucaswang.cloud/categories/%E6%95%99%E8%82%B2%E8%A7%82%E5%AF%9F/</guid>
+        <guid>https://lucas-wang-1.github.io/categories/test/</guid>
+        <description>&lt;img src="https://lucas-wang-1.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://lucas-wang-1.github.io/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucas-wang-1.github.io/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
         </item>
         <item>
-        <title>IT 研习社</title>
-        <link>https://lucaswang.cloud/categories/it-%E7%A0%94%E4%B9%A0%E7%A4%BE/</link>
-        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+        <title>Syntax</title>
+        <link>https://lucas-wang-1.github.io/categories/syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://lucaswang.cloud/categories/it-%E7%A0%94%E4%B9%A0%E7%A4%BE/</guid>
+        <guid>https://lucas-wang-1.github.io/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
-        <title>教育随笔</title>
-        <link>https://lucaswang.cloud/categories/%E6%95%99%E8%82%B2%E9%9A%8F%E7%AC%94/</link>
-        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+        <title>Themes</title>
+        <link>https://lucas-wang-1.github.io/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://lucaswang.cloud/categories/%E6%95%99%E8%82%B2%E9%9A%8F%E7%AC%94/</guid>
+        <guid>https://lucas-wang-1.github.io/categories/themes/</guid>
         <description></description>
         </item>
         <item>
-        <title>生活随笔</title>
-        <link>https://lucaswang.cloud/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</link>
-        <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+        <title>Test With Whitespaces</title>
+        <link>https://lucas-wang-1.github.io/categories/test-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://lucaswang.cloud/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/</guid>
+        <guid>https://lucas-wang-1.github.io/categories/test-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
-        <title>育儿心得</title>
-        <link>https://lucaswang.cloud/categories/%E8%82%B2%E5%84%BF%E5%BF%83%E5%BE%97/</link>
-        <pubDate>Mon, 06 Apr 2026 23:50:00 +0800</pubDate>
-        
-        <guid>https://lucaswang.cloud/categories/%E8%82%B2%E5%84%BF%E5%BF%83%E5%BE%97/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>分类</title>
-        <link>https://lucaswang.cloud/categories/test/</link>
+        <title>تجربة</title>
+        <link>https://lucas-wang-1.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://lucaswang.cloud/categories/test/</guid>
-        <description>&lt;img src="https://lucaswang.cloud/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 分类" /&gt;</description>
+        <guid>https://lucas-wang-1.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>تجربة مع فراغات</title>
+        <link>https://lucas-wang-1.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://lucas-wang-1.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</guid>
+        <description></description>
         </item>
         
     </channel>

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Lucas Wang</title>
-        <link>https://lucaswang.cloud/en/categories/</link>
-        <description>Recent content in Categories on Lucas Wang</description>
+        <title>Categories on House</title>
+        <link>https://lucas-wang-1.github.io/en/categories/</link>
+        <description>Recent content in Categories on House</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language><atom:link href="https://lucaswang.cloud/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>en</language>
+        <copyright>Lucas Person</copyright><atom:link href="https://lucas-wang-1.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
